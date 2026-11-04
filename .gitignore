@@ -1,0 +1,10 @@
+# local MySQL client history / dumps
+.mysql_history
+*.dump
+*.bak
+dumps/
+# editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
